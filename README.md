@@ -1,6 +1,6 @@
 # search_algorithms 
 Further practicing of algorithms. Initiating repo with linear search. 
-# Technologies 
+# Technologies  
 * Python 3.7.2
 * random module
 # How to read 
